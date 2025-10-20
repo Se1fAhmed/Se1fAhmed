@@ -1,54 +1,67 @@
-<h1 align="center">Hello, I'm Seif!</h1>
+<!-- Profile Title -->
+## 👋 Hello, I'm Seif!
 
-<h3 align="center">Egyptian 🇪🇬 | Software Engineer</h3>
+<!-- Typing Animation -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Comfortaa&size=24&pause=1000&color=016EEA&center=true&vCenter=true&width=500&lines=Egyptian+🇪🇬;Software+Engineer;Backend+Developer;Frontend+Developer;Nice+to+meet+you...)](https://git.io/typing-svg)
 
+<!-- GitHub Widget -->
 <p align="center">
-  <a href="https://github.com/SeifAhmed9">
-    <img src="https://komarev.com/ghpvc/?username=SeifAhmed9&label=Profile%20Views&color=0e75b6&style=flat" alt="SeifAhmed9" />
+  <a href="https://github.com/Se1fAhmed">
+    <img width="70%" height="70%" src="https://github-widgetbox.vercel.app/api/profile?username=Se1fAhmed&data=followers,repositories,stars,commits" alt="GitHub WidgetBox" />
   </a>
 </p>
 
----
-
-### 👨‍💻 About Me
-
-- 💼 I'm currently working as a **Software Engineer**  
-- 🌱 Learning **Backend (.NET)** and **Frontend (Angular)**  
-- 🔍 Exploring new technologies and developing innovative solutions  
-- 🎓 Graduated from **FCIS, Ain Shams University**  
-- 💡 Enthusiast in **Backend**, **AI**, and **Clean Coding**  
-- 🎬 Watching **anime** and **movies** as hobbies  
-- ☕ I believe a perfect cup of coffee can solve any problem 😄  
-- 📫 Reach me at: **your_email@gmail.com**
-
----
-
-### 🌐 Connect With Me
-<p align="left">
-  <a href="https://linkedin.com/in/yourlinkedin" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="30" width="30" />
+<!-- Social Links -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/ahmedsamirf11">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" />
   </a>
-  <a href="mailto:your_email@gmail.com">
-    <img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="gmail" height="30" width="30" />
+  <a href="https://drive.google.com/file/d/1lhSBgAjb6rgh2BNKmFMqzIzduZ6lbR8j/view?usp=share_link">
+    <img src="https://img.shields.io/badge/Resume-View-green?style=flat&logo=google-drive&logoColor=white" />
   </a>
 </p>
+
+<!-- Animated GIF -->
+<img align="right" alt="Coding GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="450"/>
+
+---
+
+### 👨🏻‍💻 About Me
+
+- 💼 I’m working as a **Software Engineer**
+- 🔭 Currently learning **Backend (.NET)** & **Frontend (Angular)**
+- 🤔 Exploring new technologies and developing creative solutions
+- 🎓 Graduated from **ASU, Egypt**
+- 🌱 Enthusiast in **Backend** & **Clean Coding**
+- ✍️ Love **Anime**, **Movies**, and a good cup of ☕
+- 💬 “Code is like humor. When you have to explain it, it’s bad.”
+- 📫 Reach me at: **seif2ahmed7@gmail.com**
 
 ---
 
 ### 🛠️ Languages and Tools
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" alt="jQuery" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="Angular" width="40" height="40"/>
+<p align="center">
+  <code><img width="8%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"></code>
+  <code><img width="8%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
+  <br/>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/css3/css3-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/jquery/jquery-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg"></code>
+  <br/>
+  <code><img width="15%" src="https://upload.wikimedia.org/wikipedia/de/8/8c/Microsoft_SQL_Server_Logo.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/oracle/oracle-ar21.svg"></code>
+  <br/>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
 </p>
 
 ---
@@ -56,15 +69,13 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SeifAhmed9&show_icons=true&theme=radical" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Se1fAhmed&show_icons=true&theme=tokyonight" alt="Seif's GitHub stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SeifAhmed9&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Se1fAhmed&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---
 
-### 💬 Quote
-
-> “Code is like humor. When you have to explain it, it’s bad.” — Cory House
+> _"Keep it simple, keep it clean, and make it work."_ 🚀
